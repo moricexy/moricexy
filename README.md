@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on [Ventinus](https://github.com/VentinusEU)
 
-- 👨‍💻 All of my projects are available at [https://github.com/moricexy](https://github.com/moricexy)
+- 👨‍💻 All of my [projects](https://github.com/moricexy?tab=repositories)
 
 - ⚡ Fun fact **I am depressed** fr
 

@@ -4,8 +4,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=moricexy&label=Profile%20views&color=0e75b6&style=flat" alt="moricexy" /> </p>
 
-- 🔭 I’m currently working on [Ventinus](https://github.com/VentinusEU)
-
 - 👨‍💻 All of my [projects](https://github.com/moricexy?tab=repositories)
 
 - 📕 Im currently learning **svelte** & **Electron**

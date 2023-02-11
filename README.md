@@ -2,8 +2,6 @@
 <h3 align="center">A passionate developer from Germany</h3>
 <img align="right" alt="Coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrsmGd67GVmOFSsPzqCFzjRa0tRdaBrsrw_g&usqp=CAU">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=moricexy&label=Profile%20views&color=0e75b6&style=flat" alt="moricexy" /> </p>
-
 - 👨‍💻 All of my [projects](https://github.com/moricexy?tab=repositories)
 
 - 📕 Im currently learning **svelte** & **Electron**

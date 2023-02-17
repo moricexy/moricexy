@@ -3,9 +3,9 @@
 <img align="right" alt="Coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrsmGd67GVmOFSsPzqCFzjRa0tRdaBrsrw_g&usqp=CAU">
 
 - 👨‍💻 All of my projects:
-   - SchleichiSMP 3 & 4
+   - SchleichiSMP **3** & **4**
    - RoMaxSMP
-   - zOnexSMP (soonTM)
+   - zOnexSMP (soon**TM**)
    - Free Resources (https://spigotmc.org)
    - Ventinus (https://github.com/VentinusEU)
 

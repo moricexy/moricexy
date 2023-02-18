@@ -2,14 +2,6 @@
 <h3 align="center">A passionate developer from Germany</h3>
 <img align="right" alt="Coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrsmGd67GVmOFSsPzqCFzjRa0tRdaBrsrw_g&usqp=CAU">
 
-- 👨‍💻 All of my projects:
-   - SchleichiSMP **3** & **4** (**21.11.2021** -> **10.09.2022**)
-   - RoMaxSMP (**13.10.2021** -> **6.11.2021**)
-   - zOnexSMP (**16.02.2023** -> **present**)
-   - Ventinus (https://github.com/VentinusEU) (**02.01.2023** -> **present**)
-
-   - Free Resources (https://spigotmc.org)
-
 - 📕 Im currently learning **svelte** & **Electron**
 
 <h3 align="left">Languages and Tools:</h3>

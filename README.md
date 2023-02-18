@@ -6,8 +6,9 @@
    - SchleichiSMP **3** & **4** (**21.11.2021** -> **10.09.2022**)
    - RoMaxSMP (**13.10.2021** -> **6.11.2021**)
    - zOnexSMP (**16.02.2023** -> **present**)
-   - Free Resources (https://spigotmc.org)
    - Ventinus (https://github.com/VentinusEU) (**02.01.2023** -> **present**)
+
+   - Free Resources (https://spigotmc.org)
 
 - 📕 Im currently learning **svelte** & **Electron**
 
